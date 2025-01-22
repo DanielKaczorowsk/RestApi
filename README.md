@@ -14,3 +14,4 @@
     Create new file in folder view/template.
     File template.html or template.php is primary.
     Create next layouts file and change create function in file public/index.php.
+    I create only error layout;
