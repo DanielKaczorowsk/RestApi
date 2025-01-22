@@ -11,6 +11,6 @@
 		->render();
     This is primary settings in template/open_template.php
 # Create new file in template
-    Create new file in folder view/template
-    file template is primary html
-    create next layouts file and change create function in file public/index.php
+    Create new file in folder view/template.
+    File template.html or template.php is primary.
+    Create next layouts file and change create function in file public/index.php.
